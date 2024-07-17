@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "nome": "Console Playstation 5",
+      "valor": "2.500.00",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/238671/console-sony-playstation-5_1634132554_g.jpg",
+      "id": 1
+    },
+    {
+      "nome": "Xbox Series X",
+      "valor": "2.000.00",
+      "imagem": "https://assets.xboxservices.com/assets/fb/d2/fbd2cb56-5c25-414d-9f46-e6a164cdf5be.png?n=XBX_A-BuyBoxBGImage01-D.png",
+      "id": 2
+    },
+    {
+      "nome": "Apple Macbook Air 2020",
+      "valor": "7489.90",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmC4Wq3obMQSmbVqcx1dp_uHeVgpUFy6fXA&s",
+      "id": 3
+    },
+    {
+      "nome": "Nintendo Switch OLED 64GB",
+      "valor": "2.099.00",
+      "imagem": "https://http2.mlstatic.com/D_Q_NP_803086-MLA47920649105_102021-O.webp",
+      "id": 4
+    },
+    {
+      "nome": "Monitor Gamer LG UltraGear 24'' 144hz",
+      "valor": "1.066.50",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/434391/monitor-gamer-lg-ultragear-24-full-hd-144hz-1ms-ips-hdmi-e-displayport-99-srgb-hdr-freesync-premium-vesa-24gn60r-b-awzm_1680616910_gg.jpg",
+      "id": 5
+    },
+    {
+      "nome": "Steam Deck 64gb",
+      "valor": "3.499.00",
+      "imagem": "https://m.media-amazon.com/images/I/519QI4dRnkL._AC_UF1000,1000_QL80_.jpg",
+      "id": 6
+    }
+  ]
+}
